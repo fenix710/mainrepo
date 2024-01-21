@@ -1,0 +1,3 @@
+[submodule "sub1/sub1"]
+	path = sub1/sub1
+	url = git@github.com:fenix710/sub1.git
